@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.12 (wx_auto_zjm)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.13 (ds_auto_wx)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.13 (auto_wx)" project-jdk-type="Python SDK" />
 </project>
