@@ -1,5 +1,4 @@
 # 这个是运行的主要界面，运行速度可能很慢，请细心等待，至于什么原因，可以自己再找资料，这只提供最简单的实现
-# 主播也是没怎么学python，如果有需要改进或交流，请加wx：wlxdr1234567
 
 from wxauto import WeChat
 from openai import OpenAI
